@@ -54,5 +54,3 @@ Before running the script, ensure the following variables are correctly set:
 - The script appends found CPR numbers to the log file, with each execution timestamped to distinguish between different runs.
 - Only PDF files are processed. Files with other extensions are ignored.
 - The script prints its progress and results to the console, providing immediate feedback on its operation.
-
-This documentation provides a comprehensive overview of the script's functionality, setup, and usage. Ensure all paths and dependencies are correctly configured before execution.
