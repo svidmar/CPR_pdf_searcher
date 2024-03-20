@@ -3,7 +3,7 @@
 
 ## Overview
 
-This script is designed to scan through PDF files within a specified directory, identifying and logging Danish Personal Identification numbers (CPR numbers). These numbers follow a specific format, either "DDMMYY-XXXX" or "DDMMYYXXXX", where `DDMMYY` represents the date of birth, and `XXXX` is a unique identifier.
+This script is designed to scan through PDF files within a specified directory, identifying and logging Danish Personal Identification numbers (CPR numbers). These numbers follow a specific format, either "DDMMYY-XXXX" or "DDMMYYXXXX", where `DDMMYY` represents the date of birth, and `XXXX` is a serial number.
 
 ## Dependencies
 
